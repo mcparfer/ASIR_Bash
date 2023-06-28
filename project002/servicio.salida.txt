@@ -1,0 +1,28 @@
+02-21-2023 09:04:02 start
+   sda 17358 8285
+   sdb 334 13
+   sdc 102 0
+02-21-2023 09:04:03 status
+   sda 17396 9983
+   sdb 334 13
+   sdc 102 0
+   sda 17396 9987
+   sdb 334 13
+   sdc 102 0
+   sda 17398 9990
+   sdb 334 13
+   sdc 102 0
+   sda 17398 10103 ¡ATENCIÓN!
+   sdb 334 13
+   sdc 102 0
+   sda 17398 10110 ¡ATENCIÓN!
+   sdb 334 13
+   sdc 102 0
+   sda 17398 10191 ¡ATENCIÓN!
+   sdb 334 13
+   sdc 102 0
+   sda 17398 10194 ¡ATENCIÓN!
+   sdb 334 13
+   sdc 102 0
+02-21-2023 09:07:26 status
+02-21-2023 09:07:41 stop
